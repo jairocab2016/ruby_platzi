@@ -30,10 +30,10 @@ class PatoBlanco < Pato
   end
 end
 
-pato = Pato.new
-pato_mallard = PatoMallard.new
-pato_blanco = PatoBlanco.new
-# pato.presentacion
-# pato_mallard.presentacion
-# pato_blanco.presentacion
-pato_blanco.volar
+# pato = Pato.new
+# pato_mallard = PatoMallard.new
+# pato_blanco = PatoBlanco.new
+# # pato.presentacion
+# # pato_mallard.presentacion
+# # pato_blanco.presentacion
+# pato_blanco.volar
